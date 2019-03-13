@@ -18,7 +18,7 @@ def speak_to_grandma( phrase )
   elsif phrase "I LOVE YOU GRANDMA!"
     response = "NO, NOT SINCE 1938!"  
   else
-    response = "NO, NOT SINCE 1938!"
+    response = "I LOVE YOU TOO PUMPKIN!"
   end
   
   response
