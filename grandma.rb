@@ -14,9 +14,9 @@
 def speak_to_grandma( phrase )
   
   if phrase != phrase.toUpperCase
-    response = 'HUH'
+    response = "HUH?! SPEAK UP, SONNY!"
   else if phrase "I LOVE YOU GRANDMA!"
-  
+    response = ''  
   else
   
   end
