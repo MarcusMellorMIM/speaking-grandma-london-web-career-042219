@@ -15,7 +15,7 @@ def speak_to_grandma( phrase )
   
   if phrase != phrase.toUpperCase
     response = "HUH?! SPEAK UP, SONNY!"
-  else if phrase "I LOVE YOU GRANDMA!"
+  elsif phrase "I LOVE YOU GRANDMA!"
     response = "NO, NOT SINCE 1938!"  
   else
     response = "NO, NOT SINCE 1938!"
